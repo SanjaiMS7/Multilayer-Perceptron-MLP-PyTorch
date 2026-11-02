@@ -1,0 +1,10 @@
+# raw dataset (public on Kaggle; ~70 MB) and large generated tables
+data/*
+!data/README.md
+All Data/
+*.zip
+outputs_pre/readmission_clean_merged.csv
+__pycache__/
+.ipynb_checkpoints/
+*.aux
+*.log
